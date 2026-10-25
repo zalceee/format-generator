@@ -25,5 +25,4 @@
 
 # GUI
 ---
-![Static Badge](https://img.shields.io/badge/v1_GUI?link=https%3A%2F%2Fgithub.com%2Fzalceee%2Fformat-generator%2Freleases%2Fdownload%2Fv1%2FDSR-to-INVC.exe)
-
+[![Static Badge](https://img.shields.io/badge/v1-GUI-green?labelColor=black)](https://github.com/zalceee/format-generator/releases/download/v1/DSR-to-INVC.exe)
