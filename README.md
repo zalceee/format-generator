@@ -22,3 +22,7 @@
 4. Open cmd and go to the formatgenerate.exe path.
 
 5. use to code to generate format " formatgenerate dsr.csv [Year]-[Month]-[Day]
+
+# GUI
+---
+![Static Badge](https://img.shields.io/badge/v1_GUI)
