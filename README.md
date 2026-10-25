@@ -23,6 +23,6 @@
 
 5. use to code to generate format " formatgenerate dsr.csv [Year]-[Month]-[Day]
 
-# GUI
----
+# GUI Download
+
 [![Static Badge](https://img.shields.io/badge/v1-GUI-green?labelColor=black)](https://github.com/zalceee/format-generator/releases/download/v1/DSR-to-INVC.exe)
